@@ -1,0 +1,15 @@
+{
+    "name": "PCGeek/fancyBox",
+    "type": "component",
+    "description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages",
+    "keywords": ["jquery", "fancyapps", "fancybox", "gallery"],
+    "homepage": "http://fancyapps.com/fancybox/",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "PCGeek",
+            "email": "volkov.slava31@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
