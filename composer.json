@@ -11,5 +11,16 @@
             "email": "volkov.slava31@gmail.com",
             "role": "Developer"
         }
-    ]
+    ],
+	"extra": {
+    "component": {
+      "scripts": [
+        "source/jquery.fancybox.pack.js"
+      ],
+      "files": [
+        "source/jquery.fancybox.css",
+        "source/jquery.fancybox.pack.js"
+      ]
+    }
+  }
 }
